@@ -6,7 +6,6 @@
 - Mybatis 3.4.6
 - jQuery 3.3.1
 - SQL - oracle developer
-				(user : scott / pw : tiger)
 - HTML, CSS, JS - VS code
 
 - "team5" project with GitHub tool.
@@ -20,7 +19,7 @@
 - 눈 보호 모드 기능 (다크모드)
 
 # 도서관 (전체 서재)
-- 추천 도서, 베스트 셀러 노출 기능
+- 추천 도서, 베스트 셀러 노출 기능 (조회수로 랭크한 베스트 셀러)
 - 선택한 도서 상세 페이지 - 내 서재에 담기 기능, 한 줄 리뷰, 좋아요 싫어요 기능, 추천 도서 (마우스 커서 이동 시 움직임 기능)
 	- 추천 기능은 Ajax 이용 
 
@@ -42,4 +41,3 @@
 
 * OPEN API
 - 리디움 클라우드 리더 (Epub)
-
