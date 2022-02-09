@@ -8,7 +8,6 @@
 <h1>
 	Hello!  
 </h1>
-
-<P>  The time on the server is ${serverTime}. </P>
+git test
 </body>
 </html>
